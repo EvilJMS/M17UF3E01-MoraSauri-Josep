@@ -1,0 +1,2419 @@
+fileFormatVersion: 2
+guid: abb224e0bfa779f4393fd410cb066ef4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_0
+    21300002: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_1
+    21300004: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_2
+    21300006: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_3
+    21300008: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_4
+    21300010: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_5
+    21300012: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_6
+    21300014: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_7
+    21300016: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_8
+    21300018: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_9
+    21300020: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_10
+    21300022: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_11
+    21300024: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_12
+    21300026: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_13
+    21300028: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_14
+    21300030: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_15
+    21300032: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_16
+    21300034: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_17
+    21300036: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_18
+    21300038: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_19
+    21300040: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_20
+    21300042: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_21
+    21300044: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_22
+    21300046: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_23
+    21300048: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_24
+    21300050: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_25
+    21300052: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_26
+    21300054: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_27
+    21300056: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_28
+    21300058: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_29
+    21300060: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_30
+    21300062: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_31
+    21300064: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_32
+    21300066: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_33
+    21300068: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_34
+    21300070: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_35
+    21300072: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_36
+    21300074: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_37
+    21300076: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_38
+    21300078: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_39
+    21300080: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_40
+    21300082: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_41
+    21300084: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_42
+    21300086: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_43
+    21300088: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_44
+    21300090: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_45
+    21300092: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_46
+    21300094: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_47
+    21300096: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_48
+    21300098: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_49
+    21300100: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_50
+    21300102: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_51
+    21300104: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_52
+    21300106: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_53
+    21300108: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_54
+    21300110: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_55
+    21300112: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_56
+    21300114: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_57
+    21300116: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_58
+    21300118: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_59
+    21300120: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_60
+    21300122: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_61
+    21300124: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_62
+    21300126: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_63
+    21300128: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_64
+    21300130: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_65
+    21300132: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_66
+    21300134: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_67
+    21300136: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_68
+    21300138: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_69
+    21300140: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_70
+    21300142: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_71
+    21300144: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_72
+    21300146: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_73
+    21300148: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_74
+    21300150: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_75
+    21300152: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_76
+    21300154: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_77
+    21300156: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_78
+    21300158: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_79
+    21300160: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_80
+    21300162: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_81
+    21300164: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_82
+    21300166: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_83
+    21300168: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_84
+    21300170: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_85
+    21300172: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_86
+    21300174: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_87
+    21300176: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_88
+    21300178: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_89
+    21300180: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_90
+    21300182: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_91
+    21300184: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_92
+    21300186: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_93
+    21300188: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_94
+    21300190: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_95
+    21300192: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_96
+    21300194: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_97
+    21300196: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_98
+    21300198: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_99
+    21300200: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_100
+    21300202: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_101
+    21300204: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_102
+    21300206: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_103
+    21300208: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_104
+    21300210: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_105
+    21300212: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_106
+    21300214: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_107
+    21300216: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_108
+    21300218: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_109
+    21300220: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_110
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 599
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678187b4c1bd3e44a8c5d4ffa69b935b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 599
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e9f36d2d94644c99f61e1d9024b27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 599
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965fb8167d60a1d40bd0a7eb52fee42c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 599
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f671eb12a2ae7e44b20ca9b1152b7a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 599
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7158c769e3e00fc4f983dbfaa91b1518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 599
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f5e032128e5254ca625cddae358b53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 599
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee7b46c4525ff4dbdbac916712736c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 599
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0775b081db257734f806d8dc0d7dc9ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 600
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c882d265750ed2e4c8d9203c6d30aed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 599
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1089dbd757522a4ebcfef8d5e672259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 600
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e9677f8db903143a2043d5c29a683b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_11
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 600
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e2dea829f888a4ca0675434e4d44f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_12
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 600
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e791ed8ca0e0d4ea6ece49a8e04f09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 600
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c712bfdd41f41b44abcb02a3b16bf5af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_14
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 599
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2b867b09376b941b9b4cf9a0ba7422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 599
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d315d4ce6d811454da1c8c0450367b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_16
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 600
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f145f7e34d225e4ab85a32e6b2959b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_17
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 599
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ac1d047d86c77438de16565b3c760b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 535
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e174627217d3fd4ea86b1822f190887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 535
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cec009c334ebd4c9f9fb35a299e88f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 535
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3f0b61fbc64c04c9b17dfad9fdc36a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 535
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0ab128455e13a46a0e688c10b8f63c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 535
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c804e8b3c463e24c80969fbf9647ea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 535
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d634baeb78be4cbbdbace274f83fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_24
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 535
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e5a8a20d7dd4a41901dd5197990e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 535
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9cef8a3b9950842a612b9c5a4251a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_26
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 546
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2d4749a135144889cda6eb598dfb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_27
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 547
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcae748f3ce50464cb80df3d76fb8bff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_28
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 547
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb558de501cae4f9438bbc05a072d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_29
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 547
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a39b28e4543a45877986f06b75071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_30
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 547
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b23cb75653c224a9ffc8119a018ad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 547
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e223c7c384c041a089d4832544b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_32
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 547
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957f071625d46d94aaa9dd68b91015ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_33
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 545
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b119b7ff61e232543b54383a2b71d545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 471
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913dba592776d5a4babca9a214f990e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 471
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeedfb7398c71a4192b1ca3410104a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 471
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb9ab08325812409b0a2d45e161910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 471
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53368970a5eebb4aaf5cbd19649f470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 471
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d78fb182a7e994f9e62ec55b567a6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 471
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff6e6a962c6a74a90ecadafafdebb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 471
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e6ec9ec6785a42b95f0c37b25f7cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_41
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 471
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0d6a46c1d5d249ab6d5e4f2a02d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_42
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 490
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a96496ff5a6345b42c60b2e10ccee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 491
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2e24f4bd3442549877452e4bcaefc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_44
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 491
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1de44a475618141a94fd07764b5795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_45
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 492
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6c46be7cc7c6747a9d04244fd74f61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_46
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 491
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc44e4201191eb4e9e3b4fa8cb00464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_47
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 489
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f890abcbbccdad489d8d4f4ee0b4aba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_48
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 490
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d060d4897db74faa60ea5dd026a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_49
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 491
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0147ec6cc33047aa33356fdd09fae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_50
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 491
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc122d3c11f0a2b49b3b7172bd0ca1b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_51
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 492
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cceb39fda6b5409b30790b0b5f0ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_52
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 487
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fdc3c9a9b8ebb4ea5c265d9ba953ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 407
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f6714e569d974884689a82dfdae2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 407
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e496fcd6a8441864b8056b96e2855dac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 407
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38db103b917c924198bfdd49a843315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 407
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a93681a4265441bb3075974d3bdad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 457
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1575117dfcc4ce046874ef867e04ae23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 457
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c817895341d37f48b9807c95096fe70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_59
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 457
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3387d011b7ac44a2aad1980d0acd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_60
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 457
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131abfd5a1bfdbf47992fe591f9a9c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_61
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 457
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e079dd5d1da24284722f0b1f47f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_62
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 434
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd695c925ab3acc46b9e5ac42c01227e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_63
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 433
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3555263bb2eaba46865a5fc294085ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_64
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 434
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fefd14882993c4e97a79f3f29b126c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_65
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 434
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431589c29ad9794a8182532716df452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_66
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 435
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9068d3a2b9a6a444fb1e9f9cffe62607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_67
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 436
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c1dec1e78a1e845b90ed9108bac8a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_68
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 436
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70ff3329fc7a924f95fc5d8f402677f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_69
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 436
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a45c4156dbb67444a0833958333bd87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_70
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 436
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3852788af5524091266d80046fd3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_71
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 436
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ddc9f6a1583fe4b83bb7524b2205dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 405
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba2d52005bdbaa43bed79f642d0a2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 405
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579aeed20cdff2b4d9221f408d7922c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_74
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 405
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b201ab809b4eb4696287c64ea6a94e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_75
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 405
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355053741f58ea54b830ba10d44dca2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_76
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 405
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777dadbc67970a342922cbbf2b87eeab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 378
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dedb882b301724e88f57ff969390a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_78
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 372
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c09d61a27dd63a43bb0654890fed32b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_79
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 380
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccdb9c7778729548bc65eb4a6912f44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_80
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 372
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabcc99b1ad13d4f8721599eae7935a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_81
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 379
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286b476b46b95034484626e5caedba87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_82
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 380
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df9c8143715fa419a97ca18ccc9cae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_83
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 377
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b4678fcb30954899c65c3e0c15e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_84
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 353
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ebcb61f990050469da0663a3a4e9b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_85
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 353
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f2bc147b6be0e48a508b9fbbec8007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_86
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 353
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f183ed4d0b1f52748b1d5e4a6083b88d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_87
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 353
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810dc0c914b19034fb3d64194f89c90c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 240
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876630fadafbacb4ea3d6cd4ee791ec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_89
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 250
+        width: 160
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb66bfef43f00458f4dc218ef1843d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_90
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 314
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547710126fdb33644a0867e6e0249e60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_91
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 289
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bbce0ae7b6cb7448a0b08ba9a515c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_92
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 289
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bc3aa5f401d4446b0cf4540b243ca8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_93
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 289
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb6760c17790514ea0b64874298096a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_94
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 289
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f99c88f2fad244e9bb238954fe706e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 212
+        width: 232
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30235ceadf2617d419c380384bb19eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_96
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 212
+        width: 232
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7557d4416db9ef044b8cca51344b391d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_97
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 138
+        width: 280
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29311f716792d0438ff4e7b7ea117d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_98
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 178
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8b2bf7b812584ca49bf5b97bf17ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 272
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2389b3955a246794ca89298ed9635914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_100
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 176
+        width: 272
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cba9f395fb1ec6408a3c38b8865dfe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 169
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b1cd6f38009546a68ccd9333e8606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_102
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 79
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bb00924bc22d7469ea27bbce9015c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_103
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 81
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fa4055b7933fc45aeea3782cae80ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_104
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 77
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da3722f94296714a99a43b798e1d42e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_105
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 76
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9cc17f3790f1448d27f126534cf92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_106
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 76
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522da84bfc3828d4c92c23f43feeb64f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_107
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 38
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d410d6a6191e17f408bbb76e2d646a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_108
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 21
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f41587781416f4cb56d52df7acb3c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_109
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 14
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b6dd868eb032419fe7becb07a97d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Dance Dance Revolution Mario Mix - Dance HUD_110
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 6
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdba66d50b45b641bd0f71937d0c604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 84c667d1087650240816d8b093990ce6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
